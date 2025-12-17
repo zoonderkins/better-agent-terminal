@@ -2,7 +2,9 @@
 
 <div align="center">
 
-![Version](https://img.shields.io/badge/version-1.0.0-blue.svg)
+<img src="assets/icon.svg" width="128" height="128" alt="Better Agent Terminal">
+
+![Version](https://img.shields.io/badge/version-1.25-blue.svg)
 ![Platform](https://img.shields.io/badge/platform-Windows-lightgrey.svg)
 ![Electron](https://img.shields.io/badge/electron-28.3.3-47848F.svg)
 ![License](https://img.shields.io/badge/license-MIT-green.svg)
@@ -11,6 +13,14 @@
 
 [Download Latest Release](https://github.com/tony1223/better-agent-terminal/releases/latest)
 
+</div>
+
+---
+
+## 📸 Screenshot
+
+<div align="center">
+<img src="assets/screenshot.png" alt="Better Agent Terminal Screenshot" width="800">
 </div>
 
 ---

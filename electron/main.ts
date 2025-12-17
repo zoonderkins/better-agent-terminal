@@ -20,7 +20,8 @@ function createWindow() {
     },
     frame: true,
     titleBarStyle: 'default',
-    title: 'Better Agent Terminal'
+    title: 'Better Agent Terminal',
+    icon: path.join(__dirname, '../assets/icon.ico')
   })
 
   ptyManager = new PtyManager(mainWindow)

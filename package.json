@@ -42,9 +42,15 @@
       "output": "release"
     },
     "win": {
-      "target": "dir",
+      "target": "zip",
       "signAndEditExecutable": false
     },
-    "forceCodeSigning": false
+    "forceCodeSigning": false,
+    "npmRebuild": false,
+    "files": [
+      "dist/**/*",
+      "dist-electron/**/*",
+      "node_modules/**/*"
+    ]
   }
 }
